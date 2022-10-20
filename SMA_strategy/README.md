@@ -3,7 +3,7 @@ The purpose of this work was chosen to test the performance of a green investmen
 To test this hypothesis is used the Global X Renewable Energy Producers ETF (ticker - RNRG).
 
 ### Part 1 - Downloading and exploring data
-Data were downloaded using the Pandas Datareader package from yahoo. finance. And with the help of the Matplotlib library was carried out a visual analysis of the Close price of the RNRG stock.
+Data were downloaded using the Pandas Datareader package from yahoo. finance. And with the help of the Matplotlib library, a visual analysis of the Close price of the RNRG stock was done.
 
 
 ### Part 2 – Description and implementation of the Trading Strategy (Pair of Simple Moving Average)
