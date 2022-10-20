@@ -2,7 +2,7 @@
 The purpose of this work was chosen to test the performance of a green investment with Simple Moving Average Trading Strategy. And the main hypothesis is: Will green investment always bring a good return?
 To test this hypothesis is used the Global X Renewable Energy Producers ETF (ticker - RNRG).
 
-The main analysis is done in the Jupiter Notebook file SMA_strategy_analysis.ipynb
+The main analysis is done in the Jupiter Notebook file [SMA_strategy_analysis.ipynb](https://github.com/IrinaPukhlova/Investment-strategy/blob/main/SMA_strategy/SMA_strategy_analysis.ipynb)
 
 ### Part 1 - Downloading and exploring data
 Data were downloaded using the Pandas Datareader package from Yahoo Finance. And with the help of the Matplotlib library, a visual analysis of the Close price of the RNRG stock was done.
