@@ -26,4 +26,4 @@ Also,  the performance was calculated for each SMA pair with 2 types: without an
 - [performance_reinvest.py](https://github.com/IrinaPukhlova/Investment-strategy/blob/main/SMA_strategy/functions/performance_reinvest.py) - calculates performance with reinvestment
 
 ### Part 3 – Conclusion
-[Here](SMA_strategy_analysis.ipynb/#Conclusion) the findings of my experiment and the main hypothesis are described, as the references that were used in the course of the study.
+[Here](https://github.com/IrinaPukhlova/Investment-strategy/blob/main/SMA_strategy/SMA_strategy_analysis.ipynb#Conclusion) the findings of my experiment and the main hypothesis are described, as the references that were used in the course of the study.
