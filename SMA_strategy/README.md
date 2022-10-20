@@ -1,5 +1,5 @@
 ## Project Description
-The purpose of this work was chosen to test the performance of a green investment. And the main hypothesis is: Will green investment always bring a good return?
+The purpose of this work was chosen to test the performance of a green investment with Simple Moving Average Trading Strategy. And the main hypothesis is: Will green investment always bring a good return?
 To test this hypothesis is used the Global X Renewable Energy Producers ETF (ticker - RNRG).
 
 The main analysis is done in the Jupiter Notebook file SMA_strategy_analysis.ipynb
