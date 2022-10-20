@@ -5,7 +5,7 @@ To test this hypothesis is used the Global X Renewable Energy Producers ETF (tic
 The main analysis is done in the Jupiter Notebook file SMA_strategy_analysis.ipynb
 
 ### Part 1 - Downloading and exploring data
-Data were downloaded using the Pandas Datareader package from yahoo. finance. And with the help of the Matplotlib library, a visual analysis of the Close price of the RNRG stock was done.
+Data were downloaded using the Pandas Datareader package from Yahoo Finance. And with the help of the Matplotlib library, a visual analysis of the Close price of the RNRG stock was done.
 
 
 ### Part 2 – Description and implementation of the Trading Strategy (Pair of Simple Moving Average)
@@ -13,6 +13,7 @@ Three pairs of short and long SMA were chosen to test this strategy:
 - SMA30 and SMA 365
 - SMA30 and SMA 90
 - SMA30 and SMA 180
+
 These three pairs were performed to test our main hypothesis, to see if the return on green investments is always positive, or if it still depends more on the right choice of strategy parameters.
 
 2 additional functions were written to implement the strategy
