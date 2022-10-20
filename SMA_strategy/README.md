@@ -12,6 +12,7 @@ Three pairs of short and long SMA were chosen to test this strategy:
 - SMA30 and SMA 90
 - SMA30 and SMA 180
 These three pairs were performed to test our main hypothesis, to see if the return on green investments is always positive, or if it still depends more on the right choice of strategy parameters.
+
 2 additional functions were written to implement the strategy
 - SMA.py - calculates SMA with any specified period
 - strategy_2_sma.py - it directly implements the strategy logic and generates buy and sell signals as a result
