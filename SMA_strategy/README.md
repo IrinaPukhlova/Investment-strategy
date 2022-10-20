@@ -27,5 +27,3 @@ Also,  the performance was calculated for each SMA pair with 2 types: without an
 
 ### Part 3 – Conclusion
 Here the findings of my experiment and the main hypothesis are described, as the references that were used in the course of the study.
-
-This site was built using [link](https://pages.github.com/)
