@@ -1,1 +1,1 @@
-# Investment-strategy
+Investment strategy check with Python
